@@ -33,5 +33,5 @@ If authentication or connectivity fails for any device, it **skips silently** an
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/netmiko-vlan-collector.git
-   cd netmiko-vlan-collector
+   git clone https://github.com/simsamra/VLAN-DISCOVERY-SCRIPT.git
+   cd VLAN-DISCOVERY-SCRIPT
